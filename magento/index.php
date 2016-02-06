@@ -1,5 +1,6 @@
 <?php
-echo "Hi";  
+echo "Hi";   
+echo "";
 /**
  * Magento
  *
